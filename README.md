@@ -13,7 +13,7 @@ Open command gitBash to install needed libraries:
 - Main file: lastname_firstname_grade_the_exams.py
 - Input file: class1.txt, class2.txt,_ etc
 - Output file: class1_grade.txt, class2_grade.txt,_ etc
-- Zip file: Assignment 2_hienndFX10284.zip -- This .zip file contains all the files in this git.
+- Zip file: DSP301x_asm2_hienndFX10284@funix.edu.vn.zip -- This .zip file contains all the files in this git.
 
 # Quick start
 1. Open gitBash and go to the folder that contains the file **lastname_firstname_grade_the_exams.py**

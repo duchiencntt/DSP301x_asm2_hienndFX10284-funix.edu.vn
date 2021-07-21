@@ -26,7 +26,7 @@ Open command gitBash to install needed libraries:
   For example: **Enter a filename (i.e. class1 for class1.txt)**: `class1`
 
 # GitHub URL
-**https://https://github.com/duchiencntt/Python
+**https://https://github.com/duchiencntt/DSP301x_asm2_hienndFX10284@funix.edu.vn
 
 # License
-This program is created by [Nguyen Duc Hien](https://github.com/duchiencntt/Python)
+This program is created by [Nguyen Duc Hien](https://github.com/duchiencntt/)
